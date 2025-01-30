@@ -1,10 +1,10 @@
-<h1 align="center" id="title">Homies</h1>
+<h1 align="center" id="title">Hello Guys</h1>
 
-<p id="description">Homies is Social media app Build using MERN Stack. Allowing to Creating User's registration, Login, Adding Posts, giving Like and Comments.</p>
+<p id="description">Guys this is Social media app Build using MERN Stack. Allowing to Creating User's registration, Login, Adding Posts, giving Like and Comments.</p>
 
   
   
-<h2>🧐 Features</h2>
+<h2>Features</h2>
 
 Here're some of the project's best features:
 
@@ -14,7 +14,7 @@ Here're some of the project's best features:
 *   AddPost
 *   Show Posts
 
-<h2>🛠️ Installation Steps:</h2>
+<h2>Installation Steps:</h2>
 
 <p>1. cd Server</p>
 
